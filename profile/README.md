@@ -2,7 +2,7 @@
 
 ![RSoftworks Banner](/images/Banner.png)
 
-<\div>
+</div>
 
 RSoftworks is a software development group based in Bucharest, Romania.
 
