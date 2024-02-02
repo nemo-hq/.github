@@ -1,6 +1,6 @@
 <div align="center">
 
-![Nemo's Banner](images/nemo.png)
+![Nemo's Banner](../images/nemo.png)
 
 </div>
 
