@@ -2,6 +2,7 @@
 
 ![Nemo's Banner](../images/nemo.png)
 
-</div>
+---
 
 The home to the Nemo game framework.
+</div>
