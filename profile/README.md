@@ -1,6 +1,6 @@
 <div align="center">
 
-# Nemo-hq
+![Nemo's Banner](images/nemo.png)
 
 </div>
 
